@@ -2,6 +2,8 @@ Couchbase Mobile Developer Portal
 =================================
 
 ## Contributing to Docs
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fcouchbase-mobile-portal.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fcouchbase-mobile-portal?ref=badge_shield)
+
 
 To update documentation, find the page that you wish to change on [developer.couchbase.com](http://developer.couchbase.com/documentation/mobile/1.3/develop/index.html) and click the **Edit on GitHub** button to open the backing markdown file.
 
@@ -156,3 +158,7 @@ To validate links, generate the docs and run the [link checker tool](https://git
 ./build.sh 20
 linkchecker tmp/index.html
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fcouchbase-mobile-portal.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fcouchbase-mobile-portal?ref=badge_large)
